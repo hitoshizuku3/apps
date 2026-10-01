@@ -2,5 +2,7 @@
 
 > iPhone のセンサー（マイク・カメラ・加速度など）を使った、日本語の小さな道具アプリ。広告なし・アカウント登録なし・記録は端末内だけ。
 
+- [騒音きろく 夜の生活音を記録する騒音計](https://hitoshizuku3.github.io/apps/noiselog/): 騒音きろくは、上の階や隣の部屋の足音・話し声・ドアの音など、夜の生活音を記録するための iPhone アプリです。
 - [和楽器チューナー 三味線・三線・箏・尺八](https://hitoshizuku3.github.io/apps/shamisen/): 和楽器チューナーは、三味線・三線・箏・尺八の調弦（チューニング）のための iPhone アプリです。
 - [球速スピードガン 野球の球速と回転数](https://hitoshizuku3.github.io/apps/speedgun/): 球速スピードガンは、iPhone のスローモーション動画から、野球・ソフトボールの球速と回転数をはかるアプリです。
+- [日当たりチェック 内見で窓の日照時間を計算](https://hitoshizuku3.github.io/apps/sunpath/): 日当たりチェックは、内見や家探しで部屋の日当たりを確かめるための iPhone アプリです。
