@@ -2,6 +2,7 @@
 
 > iPhone のセンサー（マイク・カメラ・加速度など）を使った、日本語の小さな道具アプリ。広告なし・アカウント登録なし・記録は端末内だけ。
 
+- [ドット電卓 - RPGゲーム風レトロ計算機](https://hitoshizuku3.github.io/apps/dotdentaku/): ドット電卓は、計算するたびにドット絵の勇者がダンジョンを進む、iPhone 用の電卓アプリです。
 - [騒音きろく 夜の生活音を記録する騒音計](https://hitoshizuku3.github.io/apps/noiselog/): 騒音きろくは、上の階や隣の部屋の足音・話し声・ドアの音など、夜の生活音を記録するための iPhone アプリです。
 - [ひけるよ！ピアノ はじめてのピアノ練習](https://hitoshizuku3.github.io/apps/pianostep/): ひけるよ！ピアノは、楽譜が読めない小さな子どもでも、童謡やクラシックをひけるようになる iPhone のピアノ練習アプリです。
 - [施術BGM - マッサージ・サロンの癒し音楽](https://hitoshizuku3.github.io/apps/sejutsubgm/): 施術BGMは、マッサージ・サロン・エステ・整体の施術室で流すための、施術専用・プロ仕様の BGM アプリです。
